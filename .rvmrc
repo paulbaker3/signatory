@@ -1,1 +1,1 @@
-rvm use --create --install ruby-2.0.0@signatory
+rvm use --create --install ruby-1.9.3@signatory
