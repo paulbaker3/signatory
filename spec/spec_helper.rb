@@ -1,9 +1,4 @@
 require 'rubygems'
-begin
-  require 'debugger'
-rescue LoadError
-  puts "Debugger is disabled"
-end
 require 'stringio'
 require 'rspec'
 begin
