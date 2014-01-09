@@ -1,10 +1,10 @@
 = signatory
 
-* http://github.com/rgarver/signatory
+* http://github.com/paulbaker3/signatory
 
-formerly profounder/signatory
+fork from rgarver/signatory
 
-{<img src="https://secure.travis-ci.org/rgarver/signatory.png" />}[http://travis-ci.org/rgarver/signatory]
+Build is currently broken
 
 == DESCRIPTION:
 
